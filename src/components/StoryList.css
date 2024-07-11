@@ -1,0 +1,67 @@
+.search-add-container {
+    display: flex;
+    justify-content: flex-end;
+    margin-bottom: 20px;
+    align-items: center;
+  }
+  
+  .search-add-container input {
+    padding: 5px;
+    margin-right: 10px;
+    width: 300px;
+  }
+  
+  .button-group {
+    display: flex;
+  }
+  
+  .search-button,
+  .add-story {
+    padding: 5px 10px;
+    margin-left: 10px;
+  }
+  
+  .add-story {
+    background-color: #6200ea;
+    color: white;
+    border: none;
+  }
+  
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+  }
+  
+  table th,
+  table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+  }
+  
+  table th {
+    background-color: #f2f2f2;
+  }
+  
+  table td button {
+    padding: 5px 10px;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .tag-button {
+    background-color: #e0e0e0;
+    color: #333;
+  }
+  
+  .status-button {
+    background-color: #e0e0e0;
+    color: #333;
+  }
+  
+  .action-button {
+    background-color: transparent;
+    color: #333;
+  }
+  
