@@ -13,10 +13,6 @@ The StoryKu web application utilizes ReactJS for its FrontEnd and ExpressJS for 
 - [Project Structure](#project-structure)
 - [List Of Challenge Requirements](#list-of-challenge-requirements)
 
-## Authors
-
-- [@Nafis.ATH](https://github.com/NFS2245)
-
 ## Features
 
 - Story List
